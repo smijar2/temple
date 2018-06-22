@@ -1,0 +1,43 @@
+/* CSS Document */
+
+
+.style11 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #217F1A;
+}
+.style13 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 9pt;
+	color: #333333;
+}
+.style14 {
+	font-size: 9pt;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #333333;
+}
+.style15 {color: #D74835}
+a.in:link {
+	text-decoration: none;
+	color: #217F1A;
+}
+a.in:visited {
+	text-decoration: none;
+	color: #217F1A;
+}
+a.in:hover {
+	text-decoration: none;
+	font-weight:bold;
+	color: #fe7123;
+}
+a.in:active {
+	text-decoration: none;
+	color: #217F1A;
+}
+.style20 {
+	color: #D74835;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}

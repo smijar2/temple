@@ -1,0 +1,64 @@
+/* CSS Document */
+
+body {
+	background-image: url('../images/bg.gif');
+}
+.style10 {color: #644E2D}
+.style2 {font-size: 9pt;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style4 {font-size: 8pt;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #8E6E40;
+}
+.style6 {font-size: 8pt;
+	font-weight: bold;
+	color: #B43426;
+}
+.style9 {font-size: 8pt; font-family: Arial, Helvetica, sans-serif; color: #6C723F; }
+a:link {
+	text-decoration: none;
+	color: #5F280D;
+}
+a:visited {
+	text-decoration: none;
+	color: #5F280D;
+}
+a:hover {
+	text-decoration: none;
+	color: #667301;
+}
+a:active {
+	text-decoration: none;
+	color: #5F280D;
+}
+.style15 {
+	color: #666666;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+}
+.style17 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold; color: #A84300; }
+.style18 {color: #A84300}
+.style19 {font-size: 10pt; font-weight: bold; font-family: Verdana, Arial, Helvetica, sans-serif;}
+.style20 {color: #000000}
+.style22 {color: #333333; font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 9pt; }
+.style23 {color: #333333}
+
+.style21 {font-size: 9pt}
+a.mainl:link {
+	text-decoration: none;
+	color: #5F280D;
+}
+a.mainl:visited {
+	text-decoration: none;
+	color: #5F280D;
+}
+a.mainl:hover {
+	text-decoration: none;
+	padding-left:10px;
+	color:#009900;
+}
+a.mainl:active {
+	text-decoration: none;
+	color: #5F280D;
+}

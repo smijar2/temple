@@ -1,0 +1,58 @@
+/* CSS Document */
+
+
+body {
+	background-image: url(../images/bg.gif);
+}
+.style10 {color: #644E2D}
+.style2 {font-size: 9pt;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style4 {font-size: 9pt;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #8E6E40;
+}
+.style9 {font-size: 8pt; font-family: Arial, Helvetica, sans-serif; color: #6C723F; }
+a:link {
+	text-decoration: none;
+	color: #5F280D;
+}
+a:visited {
+	text-decoration: none;
+	color: #5F280D;
+}
+a:hover {
+	text-decoration: none;
+	color: #667301;
+}
+a:active {
+	text-decoration: none;
+	color: #5F280D;
+}
+.style12 {color: #333333}
+.gopala {
+font:Verdana, Arial, Helvetica, sans-serif;
+font-size:8pt;
+color: #000000}
+.style17 {color: #B43426; font-weight: bold;}
+.style19 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size:12px}
+
+.style21 {font-size: 9pt}
+
+a.mainl:link {
+	text-decoration: none;
+	color: #5F280D;
+}
+a.mainl:visited {
+	text-decoration: none;
+	color: #5F280D;
+}
+a.mainl:hover {
+	text-decoration: none;
+	padding-left:10px;
+	color:#009900;
+}
+a.mainl:active {
+	text-decoration: none;
+	color: #5F280D;
+}
